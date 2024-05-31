@@ -1,3 +1,5 @@
+<h1> Netflix Database Clone </h1>
+
 A SQL database clone project - Netflix DB Clone. 
 Motivated by the main functionalities of Netflix, this project replicates the relationships and tables that allow Netflix to function.
 This includes: 
