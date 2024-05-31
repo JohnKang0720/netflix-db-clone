@@ -9,6 +9,6 @@ This includes:
 4. Watchlists - Managing user's favourite movies
 5. Log - Watch history
 
-Furthermore, this project implement TRIGGERS to perform calculations & updates on the tables to update it upon transactions along with simple data analysis that replicates how analysis may be conducted by a Netflix Data Analyst -- considering the buisness perspective and customer analysis of Netflix.
+Furthermore, this project implement TRIGGERS to perform calculations & updates on the tables to update it upon transactions along with simple data analysis that replicates how analysis may be conducted by a Netflix Data Analyst -- considering the buisness perspective of Netflix via customer analysis.
 
 The project includes a ERD diagram that helped implement relationships within the complex database, as multiple joins were conducted using SQL to access deep informations across tables.
